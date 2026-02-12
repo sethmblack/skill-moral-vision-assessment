@@ -1,10 +1,9 @@
 ---
 name: moral-vision-assessment
-description: Assess the quality of moral vision regarding a situation, revealing what
-  clearer, more loving seeing might show.
+description: Assess the quality of moral vision regarding a situation, revealing what clearer, more loving seeing might show.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - moral-vision-assessment
