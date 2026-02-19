@@ -3,7 +3,7 @@ name: moral-vision-assessment
 description: Assess the quality of moral vision regarding a situation, revealing what clearer, more loving seeing might show.
 license: MIT
 metadata:
-  version: 1.0.4531
+  version: 1.0.4532
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
